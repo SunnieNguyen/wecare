@@ -1,0 +1,23 @@
+:root {
+--primary-color: <?php echo esc_html(get_theme_mod('pr_color', '#01785c')); ?>;
+--primary-hover-color: <?php echo esc_html(get_theme_mod('pr_h_color', '#20292f')); ?>;
+--primary-bg-color: <?php echo esc_html(get_theme_mod('pr_bg_color', '#ebf4f2')); ?>;
+--header-bg-color: <?php echo esc_html(get_theme_mod('h_bg_color', '#f8f9fa')); ?>;
+--footer-bg-color: <?php echo esc_html(get_theme_mod('f_bg_color', '#f8f9fa')); ?>;
+--primary-dark-color: <?php echo esc_html(get_theme_mod('pr_d_color', '#20292f')); ?>;
+--title-color: <?php echo esc_html(get_theme_mod('title_color', '#20292f')); ?>;
+--fw-title-color: <?php echo esc_html(get_theme_mod('fw_title_color', '#0a2540')); ?>;
+--price-color: <?php echo esc_html(get_theme_mod('price_color', '#20292f')); ?>;
+--header-hover-color: <?php echo esc_html(get_theme_mod('header_h_color', '#ebf4f2')); ?>;
+--btn-bg-color: <?php echo esc_html(get_theme_mod('btn_bg_color', '#01785c')); ?>;
+--btn-hover-color: <?php echo esc_html(get_theme_mod('btn_h_color', '#02664e')); ?>;
+--social-icon-txt-color: <?php echo esc_html(get_theme_mod('social_icon_txt_color', '#ffffff')); ?>;
+--social-icon-color: <?php echo esc_html(get_theme_mod('social_icon_color', '#01785c')); ?>;
+--social-icon-hover-color: <?php echo esc_html(get_theme_mod('social_icon_h_color', '#02664e')); ?>;
+--woo-pr-fil-bg-color: <?php echo esc_html(get_theme_mod('woo_pr_fil_bg_color', '#01785c')); ?>;
+--txt-select-bg-color: <?php echo esc_html(get_theme_mod('txt_select_bg_color', '#cce7ea')); ?>;
+--price-tile-color: <?php echo esc_html(get_theme_mod('price_tile_color', '#20292f')); ?>;
+--sale-badge-bg-color: <?php echo esc_html(get_theme_mod('sale_badge_bg_color', '#01785c')); ?>;
+--cart-count-color: <?php echo esc_html(get_theme_mod('cart_count_color', '#01785c')); ?>;
+--success-icon-color: <?php echo esc_html(get_theme_mod('success_icon_color', '#01785c')); ?>;
+}

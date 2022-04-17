@@ -1,0 +1,28 @@
+<?php
+
+namespace WappoVendor\Rakit\Validation\Rules;
+
+use WappoVendor\Rakit\Validation\Rule;
+class In extends \WappoVendor\Rakit\Validation\Rule
+{
+    protected $message = "The :attribute is not allowing :value";
+    protected $strict = false;
+    public function fillParameters(array $params)
+    {
+        if (\count($params) == 1 and \is_array($params[0])) {
+            $params = $params[0];
+        }
+        $this->params['allowed_values'] = $params;
+        return $this;
+    }
+    public function strict($strict = true)
+    {
+        $this->strict = $strict;
+    }
+    public function check($value)
+    {
+        $this->requireParameters(['allowed_values']);
+        $allowed_values = $this->parameter('allowed_values');
+        return \in_array($value, $allowed_values, $this->strict);
+    }
+}

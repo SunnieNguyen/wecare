@@ -1,0 +1,56 @@
+<?php
+
+namespace Wappointment\Controllers;
+
+use Wappointment\ClassConnect\Request;
+use Wappointment\Services\Health;
+use Wappointment\Services\Permissions;
+use Wappointment\Services\Wappointment\Feedback;
+use Wappointment\System\Status;
+class AppController extends \Wappointment\Controllers\RestController
+{
+    public function migrate(\Wappointment\ClassConnect\Request $request)
+    {
+        if (\Wappointment\System\Status::coreRequiresDBUpdate()) {
+            return $this->runUpdatesCore();
+        }
+        return $this->runUpdatesAddons();
+    }
+    public function health()
+    {
+        $perms = new \Wappointment\Services\Permissions();
+        $perms->refreshStaffCap();
+        return (new \Wappointment\Services\Health())->get();
+    }
+    protected function runUpdatesCore()
+    {
+        $migrator = new \Wappointment\Installation\Migrate();
+        $migrated = $migrator->migrate();
+        if (!empty($migrated)) {
+            \Wappointment\System\Status::dbVersionUpdateComplete();
+            return ['message' => 'Database has been updated', 'migrated' => $migrated];
+        }
+        throw new \WappointmentException("Database could not be updated", 1);
+    }
+    protected function runUpdatesAddons()
+    {
+        $addonsRequiringUpdate = \Wappointment\System\Status::addonRequiresDBUpdate();
+        if (!$addonsRequiringUpdate) {
+            throw new \WappointmentException("There is no update to run", 1);
+        }
+        foreach ($addonsRequiringUpdate as $addon_details) {
+            try {
+                \call_user_func($addon_details['namespace'] . '::runDbMigrate');
+            } catch (\Throwable $th) {
+                throw new \WappointmentValidationException("Could not update addon db", 1, null, [$th->getMessage()]);
+            }
+        }
+        return ['message' => 'Database for addons has been updated'];
+    }
+    public function sendFeedback(\Wappointment\ClassConnect\Request $request)
+    {
+        $feedback = new \Wappointment\Services\Wappointment\Feedback();
+        $feedback->sendFeedback($request);
+        return ['message' => 'Feedback sent', 'result' => true];
+    }
+}

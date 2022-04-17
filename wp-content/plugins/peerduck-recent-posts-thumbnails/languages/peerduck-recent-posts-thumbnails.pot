@@ -1,0 +1,39 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-22 01:52+0300\n"
+"PO-Revision-Date: 2020-12-22 01:57+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: peerduck-recent-posts-thumbnails.php:23
+msgid "Your site&#8217;s most recent Posts with thumbnails."
+msgstr ""
+
+#: peerduck-recent-posts-thumbnails.php:26
+msgid "Recent Posts with Thumbnails"
+msgstr ""
+
+#: peerduck-recent-posts-thumbnails.php:37
+msgid "Recent Posts"
+msgstr ""
+
+#: peerduck-recent-posts-thumbnails.php:126
+msgid "Title:"
+msgstr ""
+
+#: peerduck-recent-posts-thumbnails.php:131
+msgid "Number of posts to show:"
+msgstr ""
+
+#: peerduck-recent-posts-thumbnails.php:137
+msgid "Display post date?"
+msgstr ""

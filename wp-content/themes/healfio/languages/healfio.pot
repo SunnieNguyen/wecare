@@ -1,0 +1,1374 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-28 23:23+0300\n"
+"PO-Revision-Date: 2021-10-28 23:23+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: 404.php:7
+msgid "Ooops. <span class=\"pr-color\">Page Not Found!</span>"
+msgstr ""
+
+#: 404.php:10
+msgid ""
+"The page you are looking for doesnt exist.<br> Looks like you are in the "
+"wrong place.<br> Let us guide you back!"
+msgstr ""
+
+#: 404.php:13 template-parts/blog-grid.php:73
+msgid "Go to homepage"
+msgstr ""
+
+#: comments.php:30
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:38
+#, php-format
+msgctxt "comments title"
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:70
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:71
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:85
+msgid "Comments"
+msgstr ""
+
+#: comments.php:124
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:20
+msgctxt "copyright date format"
+msgid "Y "
+msgstr ""
+
+#: footer.php:25
+msgid ". All rights reserved. "
+msgstr ""
+
+#: footer.php:34 classes/class-theme-customize.php:474
+msgid "Footer"
+msgstr ""
+
+#: functions.php:148
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:149
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:150 template-parts/footer-widgets.php:26
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:177
+msgid "Footer #1"
+msgstr ""
+
+#: functions.php:179
+msgid ""
+"Widgets in this area will be displayed in the first column in the footer."
+msgstr ""
+
+#: functions.php:189
+msgid "Footer #2"
+msgstr ""
+
+#: functions.php:191
+msgid ""
+"Widgets in this area will be displayed in the second column in the footer."
+msgstr ""
+
+#: functions.php:201
+msgid "Footer #3"
+msgstr ""
+
+#: functions.php:203
+msgid ""
+"Widgets in this area will be displayed in the third column in the footer."
+msgstr ""
+
+#: functions.php:213
+msgid "Blog sidebar"
+msgstr ""
+
+#: functions.php:215
+msgid ""
+"Widgets in this area will be displayed in the second column on blog pages."
+msgstr ""
+
+#: functions.php:225
+msgid "Single product sidebar"
+msgstr ""
+
+#: functions.php:227
+msgid ""
+"Widgets in this area will be displayed in the second column on single "
+"product pages."
+msgstr ""
+
+#: functions.php:237
+msgid "Shop sidebar"
+msgstr ""
+
+#: functions.php:239
+msgid ""
+"Widgets in this area will be displayed in the second column on the shop page."
+msgstr ""
+
+#: functions.php:472
+msgid "Breadcrumb NavXT"
+msgstr ""
+
+#: functions.php:477
+msgid "Contact Form 7"
+msgstr ""
+
+#: functions.php:482
+msgid "NextGEN Gallery"
+msgstr ""
+
+#: functions.php:487
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: functions.php:492
+msgid "Unyson"
+msgstr ""
+
+#: functions.php:498
+msgid "WooCommerce"
+msgstr ""
+
+#: functions.php:503
+msgid "Envato Market"
+msgstr ""
+
+#: functions.php:509
+msgid "Recent Posts Widget with Thumbnails"
+msgstr ""
+
+#: functions.php:515
+msgid "Elementor"
+msgstr ""
+
+#: functions.php:520
+msgid "Classic Editor"
+msgstr ""
+
+#: functions.php:525
+msgid "Unlimited Elements for Elementor"
+msgstr ""
+
+#: functions.php:530
+msgid "Essential Addons for Elementor"
+msgstr ""
+
+#: functions.php:535
+msgid "Elements kit Elementor addons"
+msgstr ""
+
+#: functions.php:554
+msgid "Healfio Demo Content"
+msgstr ""
+
+#: header.php:54 classes/class-theme-customize.php:353
+msgid "https://goo.gl/maps/XyANinc4EoxHZguc9"
+msgstr ""
+
+#: header.php:60 classes/class-theme-customize.php:338
+msgid "202 Helga Springs Rd, Crawford, TN 38554"
+msgstr ""
+
+#: header.php:75 classes/class-theme-customize.php:397
+msgid "tel:800.275.8777"
+msgstr ""
+
+#: header.php:80 classes/class-theme-customize.php:382
+msgid "800.275.8777"
+msgstr ""
+
+#: header.php:85 classes/class-theme-customize.php:412
+msgid "Call Us"
+msgstr ""
+
+#: header.php:112 classes/class-theme-customize.php:441
+msgid "/contact-us"
+msgstr ""
+
+#: header.php:117 classes/class-theme-customize.php:455
+msgid "Buy Now"
+msgstr ""
+
+#: header.php:142
+msgid "404 NOT FOUND"
+msgstr ""
+
+#: header.php:144
+msgid "Search"
+msgstr ""
+
+#: header.php:146 index.php:35
+msgid "Nothing Found"
+msgstr ""
+
+#: index.php:24
+#, php-format
+msgid "We found %s result for your search."
+msgid_plural "We found %s results for your search."
+msgstr[0] ""
+msgstr[1] ""
+
+#: index.php:32
+msgid ""
+"We could not find any results for your search. You can give it another try "
+"through the search form at the top of the page."
+msgstr ""
+
+#: searchform.php:18 searchform.php:47
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: searchform.php:40 searchform.php:44
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:42
+msgctxt "placeholder"
+msgid "Search …"
+msgstr ""
+
+#: classes/class-elementor-recent-posts.php:35
+msgid "Content"
+msgstr ""
+
+#: classes/class-elementor-recent-posts.php:42
+msgid "Number of posts"
+msgstr ""
+
+#: classes/class-elementor-recent-posts.php:45
+msgid "Enter number of posts"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:325
+msgid "Install Required Plugins"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:326
+msgid "Install Plugins"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:328
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:331
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:334
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/class-tgm-plugin-activation.php:340
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/class-tgm-plugin-activation.php:346
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/class-tgm-plugin-activation.php:352
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/class-tgm-plugin-activation.php:364
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/class-tgm-plugin-activation.php:369
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/class-tgm-plugin-activation.php:374
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/class-tgm-plugin-activation.php:379
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/class-tgm-plugin-activation.php:383
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:384
+#: classes/class-tgm-plugin-activation.php:825
+#: classes/class-tgm-plugin-activation.php:2531
+#: classes/class-tgm-plugin-activation.php:3546
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:385
+#: classes/class-tgm-plugin-activation.php:3157
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:386
+#: classes/class-tgm-plugin-activation.php:2950
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/class-tgm-plugin-activation.php:388
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:390
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:392
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:393
+msgid "Dismiss this notice"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:394
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:395
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:932
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:932
+#: classes/class-tgm-plugin-activation.php:935
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:1119
+#: classes/class-tgm-plugin-activation.php:2946
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:1980
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2271
+msgid "Required"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2274
+msgid "Recommended"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2290
+msgid "WordPress Repository"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2293
+msgid "External Source"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2296
+msgid "Pre-Packaged"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2313
+msgid "Not Installed"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2317
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2319
+msgid "Active"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2325
+msgid "Required Update not Available"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2328
+msgid "Requires Update"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2331
+msgid "Update recommended"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2340
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2386
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/class-tgm-plugin-activation.php:2390
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/class-tgm-plugin-activation.php:2394
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/class-tgm-plugin-activation.php:2398
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/class-tgm-plugin-activation.php:2480
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2488
+msgid "Installed version:"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2496
+msgid "Minimum required version:"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2508
+msgid "Available version:"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2531
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2545
+msgid "Plugin"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2546
+msgid "Source"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2547
+msgid "Type"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2551
+msgid "Version"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2552
+msgid "Status"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2601
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2606
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2612
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2682
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2715
+msgid "Install"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2721
+msgid "Update"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2724
+msgid "Activate"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2755
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2798
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2906
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2932
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:3156
+msgid "Plugin activation failed."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:3462
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:3465
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:3467
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:3471
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:3473
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:3475
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:3477
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:3480
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:3482
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:3484
+msgid "All installations have been completed."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:3486
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: classes/class-theme-customize.php:34
+msgid "Primary color"
+msgstr ""
+
+#: classes/class-theme-customize.php:35
+msgid "Sets main accent color."
+msgstr ""
+
+#: classes/class-theme-customize.php:48
+msgid "Primary hover color"
+msgstr ""
+
+#: classes/class-theme-customize.php:49
+msgid "Sets link hover color."
+msgstr ""
+
+#: classes/class-theme-customize.php:62
+msgid "Primary background color"
+msgstr ""
+
+#: classes/class-theme-customize.php:63
+msgid "Changes accent background color."
+msgstr ""
+
+#: classes/class-theme-customize.php:76
+msgid "Header background color"
+msgstr ""
+
+#: classes/class-theme-customize.php:77
+msgid ""
+"Changes header background color. If there is no changing of the header color "
+"that means the current page uses Elementor builder’s header instead of the "
+"site's global, so you need to change the color on the page."
+msgstr ""
+
+#: classes/class-theme-customize.php:90
+msgid "Footer background color"
+msgstr ""
+
+#: classes/class-theme-customize.php:91
+msgid "Changes footer background color."
+msgstr ""
+
+#: classes/class-theme-customize.php:104
+msgid "Primary dark color"
+msgstr ""
+
+#: classes/class-theme-customize.php:105
+msgid "Sets text color in paragraphs."
+msgstr ""
+
+#: classes/class-theme-customize.php:118
+msgid "Title color"
+msgstr ""
+
+#: classes/class-theme-customize.php:119
+msgid "Sets color for titles."
+msgstr ""
+
+#: classes/class-theme-customize.php:132
+msgid "Footer widget title color"
+msgstr ""
+
+#: classes/class-theme-customize.php:145
+msgid "Header links hover color"
+msgstr ""
+
+#: classes/class-theme-customize.php:158
+msgid "Button background color"
+msgstr ""
+
+#: classes/class-theme-customize.php:171
+msgid "Button hover color"
+msgstr ""
+
+#: classes/class-theme-customize.php:184
+msgid "Social icon color"
+msgstr ""
+
+#: classes/class-theme-customize.php:197
+msgid "Social icon circle background color"
+msgstr ""
+
+#: classes/class-theme-customize.php:210
+msgid "Social icon circle background hover color"
+msgstr ""
+
+#: classes/class-theme-customize.php:223
+msgid "Woocommerce price filter widget color"
+msgstr ""
+
+#: classes/class-theme-customize.php:236
+msgid "Text selection background color"
+msgstr ""
+
+#: classes/class-theme-customize.php:237
+msgid "Changes text selection background color. Try to select text on a page."
+msgstr ""
+
+#: classes/class-theme-customize.php:250
+msgid "Price color"
+msgstr ""
+
+#: classes/class-theme-customize.php:251
+msgid "Sets color for price text on product tiles."
+msgstr ""
+
+#: classes/class-theme-customize.php:264
+msgid "Product title color"
+msgstr ""
+
+#: classes/class-theme-customize.php:265
+msgid "Sets color for title on product tile."
+msgstr ""
+
+#: classes/class-theme-customize.php:278
+msgid "Color of sale badge"
+msgstr ""
+
+#: classes/class-theme-customize.php:279
+msgid "Sets color of sale badge on product tile."
+msgstr ""
+
+#: classes/class-theme-customize.php:292
+msgid "Cart count color"
+msgstr ""
+
+#: classes/class-theme-customize.php:293
+msgid ""
+"Sets background color for count badge on cart icon on the header. Add "
+"product to cart to see the badge."
+msgstr ""
+
+#: classes/class-theme-customize.php:306
+msgid "Success icon color"
+msgstr ""
+
+#: classes/class-theme-customize.php:307
+msgid "Sets icon color on success notice ✔"
+msgstr ""
+
+#: classes/class-theme-customize.php:318
+msgid "Header"
+msgstr ""
+
+#: classes/class-theme-customize.php:331
+msgid "Enable address on the header?"
+msgstr ""
+
+#: classes/class-theme-customize.php:345
+msgid "Address text."
+msgstr ""
+
+#: classes/class-theme-customize.php:346
+msgid "Field for business address."
+msgstr ""
+
+#: classes/class-theme-customize.php:360
+msgid "Address link."
+msgstr ""
+
+#: classes/class-theme-customize.php:361
+msgid ""
+"You can use any map service here, for example <a href=\"https://www.google."
+"com/maps\" target=\"_blank\">Google Maps</a>, just find your place in Google "
+"Maps, copy link and put it to this field to set."
+msgstr ""
+
+#: classes/class-theme-customize.php:375
+msgid "Enable Call Us on the header?"
+msgstr ""
+
+#: classes/class-theme-customize.php:389
+msgid "Phone number text."
+msgstr ""
+
+#: classes/class-theme-customize.php:390
+msgid ""
+"You can use any text here. For example: 123-AWESOME-BUSINESS, or +1 234 56 "
+"78, or 12345678, or 123.456.78"
+msgstr ""
+
+#: classes/class-theme-customize.php:404
+msgid "Phone number link."
+msgstr ""
+
+#: classes/class-theme-customize.php:405
+msgid ""
+"You can use any phone number format here. For the regular phone add \"tel:\" "
+"before, for example - tel:123-AWESOME-BUSINESS, or tel:+1 234 56 78, or "
+"tel:12345678, or tel:123.456.78"
+msgstr ""
+
+#: classes/class-theme-customize.php:419
+msgid "Call Us text."
+msgstr ""
+
+#: classes/class-theme-customize.php:420
+msgid ""
+"Use any or default Call Us text (it also uses Call Us text if this field is "
+"blank)."
+msgstr ""
+
+#: classes/class-theme-customize.php:434
+msgid "Enable CTA button (call-to-action)."
+msgstr ""
+
+#: classes/class-theme-customize.php:448
+msgid "CTA button link:"
+msgstr ""
+
+#: classes/class-theme-customize.php:462
+msgid "CTA button text:"
+msgstr ""
+
+#: classes/class-theme-customize.php:486
+msgid "Disable \"Copyright\" text before the year"
+msgstr ""
+
+#: classes/class-theme-customize.php:499
+msgid "Custom copyright text."
+msgstr ""
+
+#: classes/class-theme-customize.php:500
+msgid "Leave blank to use default copyright."
+msgstr ""
+
+#: classes/class-theme-customize.php:511
+msgid "Tweaks"
+msgstr ""
+
+#: classes/class-theme-customize.php:524
+msgid "Disable \"Add to cart\" button on product tiles"
+msgstr ""
+
+#: classes/class-theme-customize.php:538
+msgid "Disable post category meta text"
+msgstr ""
+
+#: classes/class-theme-customize.php:552
+msgid "Disable post author meta text"
+msgstr ""
+
+#: classes/class-theme-customize.php:566
+msgid "Disable post date meta text"
+msgstr ""
+
+#: classes/class-theme-customize.php:579
+msgid "Disable post comments meta text"
+msgstr ""
+
+#: classes/class-theme-customize.php:601
+msgid "Enable search an entire website, not just products"
+msgstr ""
+
+#: classes/class-theme-customize.php:615
+msgid "Disable icon before title"
+msgstr ""
+
+#: classes/class-theme-customize.php:629
+msgid "Disable header background"
+msgstr ""
+
+#: classes/class-theme-customize.php:643
+msgid "Disable footer background"
+msgstr ""
+
+#: classes/class-theme-customize.php:657
+msgid "Disable sticky header on desktop"
+msgstr ""
+
+#: classes/class-theme-customize.php:671
+msgid "Disable header search and cart icons"
+msgstr ""
+
+#: classes/class-theme-walker-comment.php:51
+msgid "says:"
+msgstr ""
+
+#: classes/class-theme-walker-comment.php:64
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: classes/class-theme-walker-comment.php:73
+#: woocommerce/myaccount/my-address.php:63
+msgid "Edit"
+msgstr ""
+
+#: classes/class-theme-walker-comment.php:88
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: classes/class-theme-walker-comment.php:123
+msgid " to Post Author"
+msgstr ""
+
+#: classes/class-wp-bootstrap-navwalker.php:369
+msgid "Add a menu"
+msgstr ""
+
+#: inc/cart-icon.php:12
+msgid "My Basket"
+msgstr ""
+
+#: inc/cart-icon.php:49
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/template-tags.php:156
+msgid "Post author"
+msgstr ""
+
+#: inc/template-tags.php:163
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:164
+msgid "By "
+msgstr ""
+
+#: inc/template-tags.php:180
+msgid "Post date"
+msgstr ""
+
+#: inc/template-tags.php:198 template-parts/blog-entry-header.php:27
+#: template-parts/entry-header.php:41
+msgid "Categories"
+msgstr ""
+
+#: inc/template-tags.php:202
+msgctxt "A string that is output before one or more categories"
+msgid "In"
+msgstr ""
+
+#: inc/template-tags.php:216
+msgid "Tags"
+msgstr ""
+
+#: inc/template-tags.php:254
+msgid "Sticky post"
+msgstr ""
+
+#: template-parts/blog-grid.php:71 template-parts/elementor-blog-grid.php:50
+msgid "Empty Blog"
+msgstr ""
+
+#: template-parts/blog-tile.php:14
+msgid "Read more"
+msgstr ""
+
+#: template-parts/content.php:22
+msgid "Continue reading"
+msgstr ""
+
+#: template-parts/content.php:37
+msgid "Page"
+msgstr ""
+
+#: template-parts/content.php:37
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/entry-author-bio.php:16
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: template-parts/entry-author-bio.php:26
+msgid "View Archive <span aria-hidden=\"true\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/navigation.php:22
+msgid "Post"
+msgstr ""
+
+#: template-parts/navigation.php:32
+msgid "Previous Post"
+msgstr ""
+
+#: template-parts/navigation.php:40
+msgid "Next Post"
+msgstr ""
+
+#: template-parts/pagination.php:9
+msgid "Newer <span class=\"nav-short\">Posts</span>"
+msgstr ""
+
+#: template-parts/pagination.php:14
+msgid "Older <span class=\"nav-short\">Posts</span>"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:34
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:37
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:64
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:77
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:120
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:124
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:125
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:126
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:127
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:128
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:129
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:130
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:134
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:141
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:25
+msgid "Cart totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:30 woocommerce/cart/cart-totals.php:31
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:52 woocommerce/cart/cart-totals.php:53
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:72
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:98 woocommerce/cart/cart-totals.php:99
+#: woocommerce/order/order-details.php:52
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:24
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:24
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:28
+msgid "Billing details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:53
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:54
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:26
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:57
+#: woocommerce/single-product/tabs/additional-information.php:22
+msgid "Additional information"
+msgstr ""
+
+#: woocommerce/global/form-login.php:34
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:38
+#: woocommerce/myaccount/form-login.php:43
+#: woocommerce/myaccount/form-login.php:93
+msgid "Password"
+msgstr ""
+
+#: woocommerce/global/form-login.php:47
+#: woocommerce/myaccount/form-login.php:51
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/global/form-login.php:51
+#: woocommerce/myaccount/form-login.php:34
+msgid "Login"
+msgstr ""
+
+#: woocommerce/global/form-login.php:54
+#: woocommerce/myaccount/form-login.php:57
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:39
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:54
+msgid "Log in"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:72
+#: woocommerce/myaccount/form-login.php:107
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:79
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:86
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:99
+msgid "A password will be sent to your email address."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:26
+#: woocommerce/myaccount/my-address.php:35
+#: woocommerce/order/order-details-customer.php:31
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:27
+#: woocommerce/order/order-details-customer.php:50
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:46
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:63
+msgid "Add"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:67
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:34
+#: woocommerce/order/order-details-customer.php:52
+#: woocommerce/single-product/meta.php:33
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/order/order-details.php:45
+msgid "Order details"
+msgstr ""
+
+#: woocommerce/order/order-details.php:51
+msgid "Product"
+msgstr ""
+
+#: woocommerce/order/order-details.php:93
+msgid "Note:"
+msgstr ""
+
+#: woocommerce/order/order-downloads.php:24
+msgid "Downloads"
+msgstr ""
+
+#: woocommerce/order/order-downloads.php:56
+msgid "&infin;"
+msgstr ""
+
+#: woocommerce/order/order-downloads.php:62
+msgid "Never"
+msgstr ""
+
+#: woocommerce/order/tracking.php:30
+#, php-format
+msgid "Order #%1$s was placed on %2$s and is currently %3$s."
+msgstr ""
+
+#: woocommerce/order/tracking.php:41
+msgid "Order updates"
+msgstr ""
+
+#: woocommerce/order/tracking.php:47
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:33
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:37
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:39
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:26
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:48
+msgid "Clear"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:22
+msgid "Description"
+msgstr ""
