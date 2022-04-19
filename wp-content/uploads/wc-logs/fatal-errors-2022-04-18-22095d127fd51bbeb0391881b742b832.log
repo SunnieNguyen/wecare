@@ -1,0 +1,4 @@
+2022-04-18T01:13:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\wecare\wp-content\plugins\essential-addons-for-elementor-lite\includes\Classes\WPDeveloper_Setup_Wizard.php on line 5
+
+2022-04-18T01:13:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\wecare\wp-content\plugins\elementor\includes\autoloader.php on line 265
+
