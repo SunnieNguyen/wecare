@@ -1,0 +1,4 @@
+2022-04-19T16:39:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\wecare\wp-content\plugins\brizy\vendor\tburry\pquery\gan_tokenizer.php on line 492
+
+2022-04-19T16:40:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\wecare\wp-includes\Requests\Transport\cURL.php on line 462
+
